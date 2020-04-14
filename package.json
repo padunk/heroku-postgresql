@@ -1,0 +1,10 @@
+{
+  "name": "heroku-postgresql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Padunk <abraham.agel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
